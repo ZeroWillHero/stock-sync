@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "431718014309",
+    "project_id": "stock-sync-b5604",
+    "storage_bucket": "stock-sync-b5604.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431718014309:android:3b038f4dd8034e87e1558c",
+        "android_client_info": {
+          "package_name": "com.example.stock_sync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvGgcsnulGbGEziwX_xH2rTwKjM06vDEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
